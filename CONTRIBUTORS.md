@@ -1002,3 +1002,9 @@
 - Place: Nagda, India
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
+
+
+#### Name: [Giulia Chiucchi](https://github.com/chiucchi)
+- Place: Belo Horizonte, Brazil
+- Bio: Student of Computer Science and working with technical support
+- GitHub: [chiucchi](https://github.com/chiucchi)
